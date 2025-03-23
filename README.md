@@ -7,7 +7,6 @@
 
 ### 🔥 Current Tech Journey
 🌱 Deep diving into **Deep Learning** and **Back-End Development**</br>
-
 🦾 Specializing in **Machine Learning**</br>
 🚀 Building intuitive Websites and Machine Learning models</br>
 
