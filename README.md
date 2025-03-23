@@ -54,5 +54,5 @@ I'm a passionate Back-End Developer and AI Engineer from Vietnam, currently navi
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/arthurtran04)
 <p align='center'>
-  <img src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
+  <img height='160' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
 </p>
