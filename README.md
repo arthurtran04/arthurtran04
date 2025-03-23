@@ -1,10 +1,15 @@
+<img height='350' src="https://github.com/user-attachments/assets/28d12d9e-965c-4646-b023-7e2d1758e5fd"/>
+
 ## 🌟 About Me
-I'm a passionate Back-End Developer and AI Engineer from Vietnam, currently navigating the exciting world of Website and AI technologies at [**Ho Chi Minh University of Industry**](https://iuh.edu.vn/). My code is my canvas, and I love bringing innovative ideas to life!
+👨‍💻 I am a Back-End Developer and AI Engineer from Vietnam</br>
+🔬 I am currently exploring the fields of Website and AI technologies at [**Ho Chi Minh University of Industry**](https://iuh.edu.vn/)</br>
+💡 I approach coding with great enthusiasm, as it allows me to transform innovative ideas into practical solutions</br>
 
 ### 🔥 Current Tech Journey
-- 🌱 Deep diving into **Deep Learning** and **Back-End Development**
-- 🧑‍💻 Specializing in **Machine Learning**
-- 🚀 Building intuitive Websites and Machine Learning models.
+🌱 Deep diving into **Deep Learning** and **Back-End Development**</br>
+
+🦾 Specializing in **Machine Learning**</br>
+🚀 Building intuitive Websites and Machine Learning models</br>
 
 ## 💻 Tech Stack:
 ### ⚙️ Languages:
@@ -52,7 +57,5 @@ I'm a passionate Back-End Developer and AI Engineer from Vietnam, currently navi
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arthurtran04) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhphat.workmail@gmail.com) 
 
 ### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/arthurtran04)
-<p align='center'>
-  <img height='160' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
-</p>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/arthurtran04)</br>
+<img height='165' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
