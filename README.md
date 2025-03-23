@@ -1,4 +1,4 @@
-<img height='200' src="https://github.com/user-attachments/assets/28d12d9e-965c-4646-b023-7e2d1758e5fd"/>
+<img src="https://github.com/user-attachments/assets/8b3b6c2d-b3a1-4cab-8ea8-9447c243c783"/>
 
 ## 🌟 About Me
 👨‍💻 I am a Back-End Developer and AI Engineer from Vietnam</br>
