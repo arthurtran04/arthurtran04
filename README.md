@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height='160' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height='160' src="https://nirzak-streak-stats.vercel.app/?user=arthurtran04&theme=aura_dark&hide_border=true"/>
-  <img height='130' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height='180' src="https://nirzak-streak-stats.vercel.app/?user=arthurtran04&theme=aura_dark&hide_border=true"/>
+  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
@@ -44,7 +44,7 @@
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img height='160' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&combine_all_yearly_contributions=true"/>
+  <img height='180' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
