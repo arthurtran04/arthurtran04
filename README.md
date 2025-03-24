@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### 🔧 Back-End Technologies:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,7 +25,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ### 🔨 Tools & Libraries:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height='180' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height='180' src="https://nirzak-streak-stats.vercel.app/?user=arthurtran04&theme=aura_dark&hide_border=true"/>
-  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height='180em' src="https://nirzak-streak-stats.vercel.app/?user=arthurtran04&theme=aura_dark&hide_border=true"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies:
@@ -44,7 +44,7 @@
 
 ## 🔝 Top Contributed Repo:
 <p align="center">
-  <img height='180' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&combine_all_yearly_contributions=true"/>
+  <img height='180em' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
@@ -57,4 +57,4 @@
 
 ### 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/arthurtran04)</br>
-<img height='165' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
+<img height='180em' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
