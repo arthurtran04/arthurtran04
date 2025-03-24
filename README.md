@@ -1,6 +1,7 @@
-<img src="https://github.com/user-attachments/assets/8b3b6c2d-b3a1-4cab-8ea8-9447c243c783"/>
+<img src="https://github.com/user-attachments/assets/b1c59858-f55d-4706-a1ad-9ad33296c209"/>
 
 ## 🌟 About Me:
+
 👨‍💻 I am a Back-End Developer and AI Engineer from Vietnam</br>
 🔬 I am currently exploring the fields of Website and AI technologies at [**Ho Chi Minh University of Industry**](https://iuh.edu.vn/)</br>
 💡 I approach coding with great enthusiasm, as it allows me to transform innovative ideas into practical solutions</br>
