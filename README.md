@@ -25,7 +25,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ### 🔨 Tools & Libraries:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,9 +34,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height='180em' src="https://nirzak-streak-stats.vercel.app/?user=arthurtran04&theme=aura_dark&hide_border=true"/>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=arthurtran04&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtran04&theme=aura_dark&hide_border=true&layout=compact&langs_count=7"/>
 </p>
 
 ## 🏆 GitHub Trophies:
@@ -44,17 +43,17 @@
 
 ## 🔝 Top Contributed Repo:
 <p align="center">
-  <img height='180em' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&combine_all_yearly_contributions=true"/>
+  <img height='180em' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=aura_dark&hide_border=true&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arthurtran04&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ### 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tranminhphat2004) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minh_ph4t) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arthurtran04) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhphat.workmail@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/tranminhphat2004) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/minh_ph4t) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/arthurtran04) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhphat.workmail@gmail.com) 
 
 ### 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/arthurtran04)</br>
-<img height='180em' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
+<img height='170' src="https://github.com/user-attachments/assets/64438a71-def3-4d83-bff1-03d03d8fdb65"/>
