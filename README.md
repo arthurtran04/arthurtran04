@@ -1,5 +1,7 @@
 <img src="https://github.com/user-attachments/assets/b1c59858-f55d-4706-a1ad-9ad33296c209"/>
 
+# Hi 👋, I'm Phát.
+
 ## 🌟 About Me:
 
 👨‍💻 I am a Back-End Developer and AI Engineer from Vietnam</br>
