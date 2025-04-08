@@ -52,9 +52,6 @@
   <img height='180em' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=arthurtran04&icon=0&color=13)](https://visitcount.itsvg.in)
-
 ### 🌐 Connect with me:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/minhph4t)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:minhphat.workmail@gmail.com)</br>
