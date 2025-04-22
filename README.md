@@ -21,7 +21,7 @@
 ### 🪟 Front-End Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=for-the-badge&logo=gradio&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-000000?style=for-the-badge&logo=gradio&logoColor=%23F05033.svg)
 ### 🔧 Back-End Technologies:
 <!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)-->
@@ -37,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-f27727?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-%23ffffff.svg?style=for-the-badge&logo=huggingface&logoColor=yellow)
+![Hugging Face](https://img.shields.io/badge/-%23ffffff.svg?style=for-the-badge&logo=huggingface&logoColor=F7DF1E)
 <!--![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)-->
 
