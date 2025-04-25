@@ -50,11 +50,6 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=arthurtran04&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo:
-<p align="center">
-  <img height='180em' src="https://github-contributor-stats.vercel.app/api?username=arthurtran04&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false"/>
-</p>
-
 ### 🌐 Connect with me:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/minhph4t)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:minhphat.workmail@gmail.com)</br>
