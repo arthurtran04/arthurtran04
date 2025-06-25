@@ -4,12 +4,12 @@
 
 ## 🌟 About Me:
 
-👨‍💻 I aim to pursue a career as a Back-End developer and an AI Engineer in the future</br>
+👨‍💻 I aim to pursue a career as a **Full-Stack Developer** and an **AI Engineer** in the future</br>
 🔬 I am currently exploring the fields of Website and AI technologies at [**Ho Chi Minh University of Industry**](https://iuh.edu.vn/) in Vietnam</br>
 💡 I approach coding with great enthusiasm, as it allows me to transform innovative ideas into practical solutions</br>
 
 ### 🔥 Current Tech Journey:
-🌱 Deep diving into **Deep Learning** and **Back-End Development**</br>
+🌱 Deep diving into **Deep Learning** and **Full-Stack Development**</br>
 🦾 Specializing in **Machine Learning**</br>
 🚀 Building intuitive Websites and Machine Learning models</br>
 
